@@ -1,0 +1,8 @@
+{
+  "name": "Remix DKV Learning Lab - Media Pembelajaran DD DKV SMK",
+  "description": "Media pembelajaran interaktif Dasar-Dasar Desain Komunikasi Visual Kelas X SMK Kurikulum Merdeka \u0026 Supervisi Deep Learning SMK Negeri 3 Kuningan dengan 36 minggu, 72 pertemuan, laboratorium simulasi interaktif, LKPD, asesmen, portofolio digital, dan Kontrol Pembelajaran Guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
